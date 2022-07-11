@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on Web3 Development
+- 🌱 I’m currently learning Solidity
+- 👯 I’m looking to collaborate on Web3 Projects
+- 📫 How to reach me: on [twitter](https://twitter.com/rehan_benuka) or on [Linkedin](https://www.linkedin.com/in/rehanbenuka/)
+- ⚡ Fun fact: I love coffee, chocolate, LoFi, dogs and **freedom for all** 😊
